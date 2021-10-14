@@ -8,13 +8,19 @@ const Topbar = () => {
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            Portfol.io
+            Portfoli
           </a>
           <div className="person-icon">
             <AccountCircle />
           </div>
         </div>
-        <div className="right">this is right</div>
+        <div className="right">
+          <div className="hamburger">
+            <span className="line1"></span>
+            <span className="line2"></span>
+            <span className="line3"></span>
+          </div>
+        </div>
       </div>
     </div>
   );
