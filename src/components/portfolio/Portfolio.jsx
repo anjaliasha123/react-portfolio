@@ -3,7 +3,7 @@ import "./Portfolio.scss";
 
 const Portfolio = () => {
   return (
-    <div className="portfolio">
+    <div className="portfolio" id="intro">
       <div className="content">
         <span className="name">Hi, I am Anjali Asha</span>
         <br />
