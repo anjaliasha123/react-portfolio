@@ -1,8 +1,12 @@
+@import "../../global";
+
 .topbar{
-  background-color: #063970;
+  background-color: $mainColor;
   width: 100%;
   height: 70px;
   position: fixed;
   top:0;
   z-index: 2;
+  padding: 10px;
+  box-shadow: 5px 10px 18px #160909;
 }
