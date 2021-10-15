@@ -14,7 +14,7 @@ const Menu = () => {
           <a href="#sur">Experiences</a>
         </li>
         <li>
-          <a href="contact">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
     </div>
