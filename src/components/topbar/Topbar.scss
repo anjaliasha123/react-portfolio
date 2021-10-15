@@ -9,6 +9,7 @@
   z-index: 2;
   padding: 10px;
   box-shadow: 5px 10px 18px #160909;
+  transition: all 1s ease;
 
   .wrapper{
     padding: 10px 30px;
@@ -57,7 +58,7 @@
   }
   &.active{
     background-color: $mainColor;
-    color: rgb(233, 221, 221);
+    color: rgb(255, 255, 255);
     .wrapper{
       .left{
         .logo{
