@@ -4,7 +4,7 @@ import { AccountCircle } from "@material-ui/icons";
 
 const Topbar = () => {
   return (
-    <div className="topbar">
+    <div className="topbar active">
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
